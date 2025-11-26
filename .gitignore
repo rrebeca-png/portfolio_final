@@ -1,0 +1,13 @@
+# Dependências e Ambientes Virtuais
+venv/
+__pycache__/
+*.pyc
+*.egg-info/
+
+# Arquivos de Sistema e IDEs (VS Code)
+.vscode/
+.DS_Store
+
+# Arquivos de Banco de Dados (SQLite)
+# Ignora o arquivo de banco de dados em si (para não ter que enviar a cada commit)
+#votos.db
